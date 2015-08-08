@@ -7,7 +7,7 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 - [Getting Started](#getting-started)
 - [Library and Frameworks](#libraries-and-frameworks)
 - [Design](#design)
-	- [Design Guides](#design-guidelines)
+	- [Design Guidelines](#design-guidelines)
 	- [Design Resources](#design-resources)
 - [Tools](#tools)
 - [Sample Apps](#sample-apps)
