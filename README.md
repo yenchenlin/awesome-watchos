@@ -1,4 +1,4 @@
-![](https://github.com/yenchenlin1994/awesome-watchos/blob/master/resources/title.png)
+![](https://github.com/yenchenlin1994/awesome-watchos/blob/master/resources/title.png =100x)
 =========================
 
 A curated list of awesome watchOS frameworks, libraries, sample apps.
