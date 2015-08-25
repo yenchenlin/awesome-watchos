@@ -81,20 +81,30 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
  * [WWDC](https://github.com/sugarso/WWDC) - An open sourcing WWDC hit parties app.
  
-   <space><space><img src="https://raw.githubusercontent.com/sugarso/WWDC/master/Assets/watch1.png") alt="Example App" width="300"/>
+   <space><space><img src="https://raw.githubusercontent.com/sugarso/WWDC/master/Assets/watch1.png") alt="Example App" width="250"/>
  
  * [SwiftHN](https://github.com/Dimillian/SwiftHN) - A Hacker News reader written in Swift.
  * [BaiduFM-Swift](https://github.com/belm/BaiduFM-Swift) - A apple watch app for BaiduFM.
  
-    <space><space><img src="https://raw.githubusercontent.com/belm/BaiduFM-Swift/master/ScreenShot/BaiduFM-Swift_AppleWatch_00.png") alt="Example App" width="350"/>
+    <space><space><img src="https://raw.githubusercontent.com/belm/BaiduFM-Swift/master/ScreenShot/BaiduFM-Swift_AppleWatch_00.png") alt="Example App" width="300"/>
 
  * [done-swift](https://github.com/FancyPixel/done-swift) - A sample app to demonstrate data sharing between a WatchKit app and its main app using Realm.
  
     <space><space><img src="https://raw.githubusercontent.com/FancyPixel/done-swift/master/assets/screenshot.gif") alt="Example App" width="400"/>
 
  * [HighstreetWatchApp](https://github.com/GetHighstreet/HighstreetWatchApp) - The watchKit app built on the [http://highstreetapp.com](http://highstreetapp.com) platform.
+
+    <space><space><img src="https://github.com/GetHighstreet/HighstreetWatchApp/blob/master/Documentation/Assets/walkthrough.gif") alt="Example App" width="350"/>
+
+
  * [soon](https://github.com/sandofsky/soon) - A countdown app.
+
+    <space><space><img src="https://github.com/sandofsky/soon/blob/master/screenshot.png") alt="Example App" width="300"/>
+
  * [OnTime](https://github.com/D-32/OnTime) - An apple watch app to access the SBB timetable.
+
+    <space><space><img src="https://camo.githubusercontent.com/3d2f8f30ae9ce705cc5467d3736baac2253c6dc2/687474703a2f2f34362e3130352e32362e312f75706c6f6164732f7362626170706c65322e6a7067") alt="Example App" width="500"/>
+
  * [WatchNotes](https://github.com/azamsharp/WatchNotes) - An apple watch app to display notes on your wrist.
  * [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps) - Tutorials app for WatchKit.
  * [watchOS-2-Sampler](https://github.com/shu223/watchOS-2-Sampler) - Code examples for new features of watchOS 2.
