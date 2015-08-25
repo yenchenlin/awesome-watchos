@@ -99,7 +99,7 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
  * [soon](https://github.com/sandofsky/soon) - A countdown app.
 
-    <space><space><img src="https://github.com/sandofsky/soon/blob/master/screenshot.png") alt="Example App" width="2220"/>
+    <space><space><img src="https://github.com/sandofsky/soon/blob/master/screenshot.png") alt="Example App" width="230"/>
 
  * [OnTime](https://github.com/D-32/OnTime) - An apple watch app to access the SBB timetable.
 
