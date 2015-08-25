@@ -118,7 +118,12 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 # Books
  * [WatchKit by Tutorials:
 Making Apple Watch Apps with Swift](http://www.raywenderlich.com/store/watchkit-by-tutorials)
+
+    <space><space><img src="http://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/WatchKit_PDF_max_640.png") alt="Example App" width="320"/>
+
  * [Apple Watch for Developers: Advice & Techniques from Five Top Professionals](http://www.amazon.com/gp/product/1484213394/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1484213394&linkCode=as2&tag=feedingtheneu-20&linkId=PDZBCYAGPZXWHDQU)
+    
+    <space><space><img src="http://ecx.images-amazon.com/images/I/41Opqcd7F1L._SX331_BO1,204,203,200_.jpg") alt="Example App" width="280"/>
 
 # Tutorials
 
