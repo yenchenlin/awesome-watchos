@@ -29,6 +29,9 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
 ### UI
  * [IGInterfaceDataTable](https://github.com/Instagram/IGInterfaceDataTable) - A category on WKInterfaceTable that makes configuring tables with multi-dimensional data easier.
+   
+  <space><space><img src="https://github.com/Instagram/IGInterfaceDataTable/blob/master/images/example.jpg") alt="Example App"/>
+
  * [JBWatchActivityIndicator](https://github.com/mikeswanson/JBWatchActivityIndicator) - An easy way to generate activity indicator images for Apple Watch.
 
 ### Charts
