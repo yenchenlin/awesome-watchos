@@ -1,4 +1,4 @@
-Awesome watchOS
+![](https://github.com/yenchenlin1994/awesome-watchos/blob/master/resources/title.png)
 =========================
 
 A curated list of awesome watchOS frameworks, libraries, sample apps.
@@ -7,7 +7,7 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 - [Getting Started](#getting-started)
 - [Library and Frameworks](#libraries-and-frameworks)
 - [Design](#design)
-	- [Design Guides](#design-guides)
+	- [Design Guidelines](#design-guidelines)
 	- [Design Resources](#design-resources)
 - [Tools](#tools)
 - [Sample Apps](#sample-apps)
@@ -32,10 +32,10 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
 ### Charts
  * [YOChartImageKit](https://github.com/yasuoza/YOChartImageKit) - A chart image framework for watchOS.
-
+ * [NKWatchChart](https://github.com/NilStack/NKWatchChart) - A chart library for Apple Watch based on PNChart and ios-charts.
 # Design
 
-### Design Guide
+### Design Guidelines
  * [Designing for Apple Watch](https://developer.apple.com/videos/wwdc/2015/?id=802) - Official WWDC 2015 session by Apple about how to design for apple watch.
  * [ Watch Human Interface Guidelines](https://developer.apple.com/watch/human-interface-guidelines/) - Official human interface guidelines by Apple.
  * [11 Tips For Designing Apps for Apple Watch](https://medium.com/design-idea/11-tips-for-designing-apps-for-apple-watch-4b6cc2cb11d3) - Some quick tips that will help you to build better watch apps.
