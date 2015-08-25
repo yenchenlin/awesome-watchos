@@ -68,17 +68,26 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 # Sample Apps
  * [Lister](https://developer.apple.com/library/ios/samplecode/Lister/Introduction/Intro.html) - An official sample app demonstrates Apple Watch integration.
  
-   <space><space><img src="https://github.com/yenchenlin1994/awesome-watchos/blob/master/resources/lister.png") alt="Example App"/>
+   <space><space><img src="https://github.com/yenchenlin1994/awesome-watchos/blob/master/resources/lister.png") alt="Example App" width="300"/>
 
  * [WatchKit Catalog](https://developer.apple.com/library/ios/samplecode/WKInterfaceCatalog/Introduction/Intro.html) - An official sample app demonstrates how to use UI elements available in the WatchKit framework.
  * [Cherry](https://github.com/kenshin03/Cherry) - A mini pomodoro timer app designed for the  Watch.
  
-   <space><space><img src="https://raw.githubusercontent.com/kenshin03/Cherry/master/cherry-screencaps.gif") alt="Example App"/>
+   <space><space><img src="https://raw.githubusercontent.com/kenshin03/Cherry/master/cherry-screencaps.gif") alt="Example App" width="300"/>
 
  * [WWDC](https://github.com/sugarso/WWDC) - An open sourcing WWDC hit parties app.
+ 
+   <space><space><img src="https://raw.githubusercontent.com/sugarso/WWDC/master/Assets/watch1.png") alt="Example App" width="300"/>
+ 
  * [SwiftHN](https://github.com/Dimillian/SwiftHN) - A Hacker News reader written in Swift.
  * [done-swift](https://github.com/FancyPixel/done-swift) - A sample app to demonstrate data sharing between a WatchKit app and its main app using Realm.
+ 
+    <space><space><img src="https://raw.githubusercontent.com/FancyPixel/done-swift/master/assets/screenshot.gif") alt="Example App" width="400"/>
+
  * [BaiduFM-Swift](https://github.com/belm/BaiduFM-Swift) - A apple watch app for BaiduFM.
+ 
+    <space><space><img src="https://raw.githubusercontent.com/belm/BaiduFM-Swift/master/ScreenShot/BaiduFM-Swift_AppleWatch_00.png") alt="Example App" width="350"/>
+
  * [Bitcoin Tracker](http://www.raywenderlich.com/89562/watchkit-tutorial-with-swift-getting-started) - A bitcoin price tracking app.
  * [HighstreetWatchApp](https://github.com/GetHighstreet/HighstreetWatchApp) - The watchKit app built on the [http://highstreetapp.com](http://highstreetapp.com) platform.
  * [soon](https://github.com/sandofsky/soon) - A countdown app.
