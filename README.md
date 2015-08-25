@@ -1,7 +1,6 @@
-<img src="https://github.com/yenchenlin1994/awesome-watchos/blob/master/resources/title.png" align="left" height="73" width="550" >
+<img src="https://github.com/yenchenlin1994/awesome-watchos/blob/master/resources/title.png" width="450">
+
 =========================
-
-
 A curated list of awesome watchOS frameworks, libraries, sample apps.
 
 ### Contents
