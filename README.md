@@ -25,12 +25,12 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 ### Connectivity
  * [MMWormhole](https://github.com/mutualmobile/MMWormhole) - A powerful toolkit for synthesizing, processing, and analyzing sounds.
 
-  <space><space><img src="https://github.com/mutualmobile/MMWormhole/blob/master/MMWormhole.gif") alt="Example App"/>
+  <space><space><img src="https://github.com/mutualmobile/MMWormhole/blob/master/MMWormhole.gif" width="500") alt="Example App"/>
 
 ### UI
  * [IGInterfaceDataTable](https://github.com/Instagram/IGInterfaceDataTable) - A category on WKInterfaceTable that makes configuring tables with multi-dimensional data easier.
    
-  <space><space><img src="https://github.com/Instagram/IGInterfaceDataTable/blob/master/images/example.jpg") alt="Example App"/>
+  <space><space><img src="https://github.com/Instagram/IGInterfaceDataTable/blob/master/images/example.jpg" width="500") alt="Example App"/>
 
  * [JBWatchActivityIndicator](https://github.com/mikeswanson/JBWatchActivityIndicator) - An easy way to generate activity indicator images for Apple Watch.
 
