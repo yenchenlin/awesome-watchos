@@ -37,12 +37,12 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
   <space><space><img src="https://camo.githubusercontent.com/3bc9d761836a40e088f45285ac52dd5fef89df1b/687474703a2f2f7777772e6d696b657377616e736f6e2e636f6d2f66696c65732f4a4257617463684163746976697479496e64696361746f722f4a4257617463684163746976697479496e64696361746f722e676966" width="300") alt="Example App"/>
 ### Charts
  * [YOChartImageKit](https://github.com/yasuoza/YOChartImageKit) - A chart image framework for watchOS.
-  
-  <space><space>![watchos](https://raw.githubusercontent.com/yasuoza/YOChartImageKit/assets/images/watchos/all.png)
+   
+  <space><space><img src="https://raw.githubusercontent.com/yasuoza/YOChartImageKit/assets/images/watchos/all.png") alt="Example App" width="900"/>
 
  * [NKWatchChart](https://github.com/NilStack/NKWatchChart) - A chart library for Apple Watch based on PNChart and ios-charts.
-
-  <space><space>![gif](https://db.tt/UAWEZ1AF)
+  
+  <space><space><img src="https://db.tt/UAWEZ1AF") alt="Example App" width="300"/>
 
 # Design
 
