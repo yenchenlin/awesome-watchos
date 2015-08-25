@@ -96,19 +96,24 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
     <space><space><img src="https://github.com/GetHighstreet/HighstreetWatchApp/blob/master/Documentation/Assets/walkthrough.gif") alt="Example App" width="350"/>
 
-
- * [soon](https://github.com/sandofsky/soon) - A countdown app.
-
-    <space><space><img src="https://github.com/sandofsky/soon/blob/master/screenshot.png") alt="Example App" width="230"/>
-
  * [OnTime](https://github.com/D-32/OnTime) - An apple watch app to access the SBB timetable.
 
     <space><space><img src="https://camo.githubusercontent.com/3d2f8f30ae9ce705cc5467d3736baac2253c6dc2/687474703a2f2f34362e3130352e32362e312f75706c6f6164732f7362626170706c65322e6a7067") alt="Example App" width="500"/>
 
  * [WatchNotes](https://github.com/azamsharp/WatchNotes) - An apple watch app to display notes on your wrist.
+
+    <space><space><img src="https://camo.githubusercontent.com/689a09260a6427ede9580b298c141320132796df/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f32303131363433342f57617463684e6f7465732e676966") alt="Example App" width="500"/>
+
+ * [WatchPics](https://github.com/D-32/WatchPics) - Instagram for the Apple Watch.
+
+    <space><space><img src="https://camo.githubusercontent.com/544c66f439b1328155ca4463c2fa73e514f80800/687474703a2f2f34362e3130352e32362e312f75706c6f6164732f7761746368706963732e6a7067") alt="Example App" width="500"/>
+
  * [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps) - Tutorials app for WatchKit.
  * [watchOS-2-Sampler](https://github.com/shu223/watchOS-2-Sampler) - Code examples for new features of watchOS 2.
- * [WatchPics](https://github.com/D-32/WatchPics) - Instagram for the Apple Watch.
+
+ * [soon](https://github.com/sandofsky/soon) - A countdown app.
+
+    <space><space><img src="https://github.com/sandofsky/soon/blob/master/screenshot.png") alt="Example App" width="230"/>
 
 # Books
  * [WatchKit by Tutorials:
