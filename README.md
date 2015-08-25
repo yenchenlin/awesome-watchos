@@ -34,7 +34,7 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
  * [JBWatchActivityIndicator](https://github.com/mikeswanson/JBWatchActivityIndicator) - An easy way to generate activity indicator images for Apple Watch.
  
-  <space><space><img src="https://camo.githubusercontent.com/3bc9d761836a40e088f45285ac52dd5fef89df1b/687474703a2f2f7777772e6d696b657377616e736f6e2e636f6d2f66696c65732f4a4257617463684163746976697479496e64696361746f722f4a4257617463684163746976697479496e64696361746f722e676966" width="500") alt="Example App"/>
+  <space><space><img src="https://camo.githubusercontent.com/3bc9d761836a40e088f45285ac52dd5fef89df1b/687474703a2f2f7777772e6d696b657377616e736f6e2e636f6d2f66696c65732f4a4257617463684163746976697479496e64696361746f722f4a4257617463684163746976697479496e64696361746f722e676966" width="350") alt="Example App"/>
 
 ### Charts
  * [YOChartImageKit](https://github.com/yasuoza/YOChartImageKit) - A chart image framework for watchOS.
