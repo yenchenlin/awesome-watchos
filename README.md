@@ -38,11 +38,11 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 ### Charts
  * [YOChartImageKit](https://github.com/yasuoza/YOChartImageKit) - A chart image framework for watchOS.
    
-  <space><space><img src="https://raw.githubusercontent.com/yasuoza/YOChartImageKit/assets/images/watchos/all.png") alt="Example App" width="900"/>
+  <space><space><img src="https://raw.githubusercontent.com/yasuoza/YOChartImageKit/assets/images/watchos/all.png") alt="Example App" width="760"/>
 
  * [NKWatchChart](https://github.com/NilStack/NKWatchChart) - A chart library for Apple Watch based on PNChart and ios-charts.
   
-  <space><space><img src="https://db.tt/UAWEZ1AF") alt="Example App" width="300"/>
+  <space><space><img src="https://db.tt/UAWEZ1AF") alt="Example App" width="250"/>
 
 # Design
 
@@ -68,25 +68,25 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 # Sample Apps
  * [Lister](https://developer.apple.com/library/ios/samplecode/Lister/Introduction/Intro.html) - An official sample app demonstrates Apple Watch integration.
  
-   <space><space><img src="https://github.com/yenchenlin1994/awesome-watchos/blob/master/resources/lister.png") alt="Example App" width="300"/>
+   <space><space><img src="https://github.com/yenchenlin1994/awesome-watchos/blob/master/resources/lister.png") alt="Example App" width="260"/>
 
  * [WatchKit Catalog](https://developer.apple.com/library/ios/samplecode/WKInterfaceCatalog/Introduction/Intro.html) - An official sample app demonstrates how to use UI elements available in the WatchKit framework.
  * [Cherry](https://github.com/kenshin03/Cherry) - A mini pomodoro timer app designed for the  Watch.
  
-   <space><space><img src="https://raw.githubusercontent.com/kenshin03/Cherry/master/cherry-screencaps.gif") alt="Example App" width="300"/>
+   <space><space><img src="https://raw.githubusercontent.com/kenshin03/Cherry/master/cherry-screencaps.gif") alt="Example App" width="250"/>
 
  * [Bitcoin Tracker](http://www.raywenderlich.com/89562/watchkit-tutorial-with-swift-getting-started) - A bitcoin price tracking app.
  
-    <space><space><img src="http://cdn5.raywenderlich.com/wp-content/uploads/2014/11/watch-final.png") alt="Example App" width="300"/>
+    <space><space><img src="http://cdn5.raywenderlich.com/wp-content/uploads/2014/11/watch-final.png") alt="Example App" width="250"/>
 
  * [WWDC](https://github.com/sugarso/WWDC) - An open sourcing WWDC hit parties app.
  
-   <space><space><img src="https://raw.githubusercontent.com/sugarso/WWDC/master/Assets/watch1.png") alt="Example App" width="250"/>
+   <space><space><img src="https://raw.githubusercontent.com/sugarso/WWDC/master/Assets/watch1.png") alt="Example App" width="230"/>
  
  * [SwiftHN](https://github.com/Dimillian/SwiftHN) - A Hacker News reader written in Swift.
  * [BaiduFM-Swift](https://github.com/belm/BaiduFM-Swift) - A apple watch app for BaiduFM.
  
-    <space><space><img src="https://raw.githubusercontent.com/belm/BaiduFM-Swift/master/ScreenShot/BaiduFM-Swift_AppleWatch_00.png") alt="Example App" width="300"/>
+    <space><space><img src="https://raw.githubusercontent.com/belm/BaiduFM-Swift/master/ScreenShot/BaiduFM-Swift_AppleWatch_00.png") alt="Example App" width="250"/>
 
  * [done-swift](https://github.com/FancyPixel/done-swift) - A sample app to demonstrate data sharing between a WatchKit app and its main app using Realm.
  
@@ -99,7 +99,7 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
  * [soon](https://github.com/sandofsky/soon) - A countdown app.
 
-    <space><space><img src="https://github.com/sandofsky/soon/blob/master/screenshot.png") alt="Example App" width="300"/>
+    <space><space><img src="https://github.com/sandofsky/soon/blob/master/screenshot.png") alt="Example App" width="2220"/>
 
  * [OnTime](https://github.com/D-32/OnTime) - An apple watch app to access the SBB timetable.
 
