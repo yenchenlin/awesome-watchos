@@ -24,8 +24,6 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
 ### Connectivity
  * [MMWormhole](https://github.com/mutualmobile/MMWormhole) - A powerful toolkit for synthesizing, processing, and analyzing sounds.
- 
-  <space><space><img src="MMWormhole.gif") alt="Example App"/>
 
 ### UI
  * [IGInterfaceDataTable](https://github.com/Instagram/IGInterfaceDataTable) - A category on WKInterfaceTable that makes configuring tables with multi-dimensional data easier.
