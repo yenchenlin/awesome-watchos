@@ -68,8 +68,14 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
 # Sample Apps
  * [Lister](https://developer.apple.com/library/ios/samplecode/Lister/Introduction/Intro.html) - An official sample app demonstrates Apple Watch integration.
+ 
+   <space><space><img src="https://github.com/yenchenlin1994/awesome-watchos/blob/master/resources/lister.png") alt="Example App"/>
+
  * [WatchKit Catalog](https://developer.apple.com/library/ios/samplecode/WKInterfaceCatalog/Introduction/Intro.html) - An official sample app demonstrates how to use UI elements available in the WatchKit framework.
  * [Cherry](https://github.com/kenshin03/Cherry) - A mini pomodoro timer app designed for the  Watch.
+ 
+   <space><space><img src="https://raw.githubusercontent.com/kenshin03/Cherry/master/cherry-screencaps.gif") alt="Example App"/>
+
  * [WWDC](https://github.com/sugarso/WWDC) - An open sourcing WWDC hit parties app.
  * [SwiftHN](https://github.com/Dimillian/SwiftHN) - A Hacker News reader written in Swift.
  * [done-swift](https://github.com/FancyPixel/done-swift) - A sample app to demonstrate data sharing between a WatchKit app and its main app using Realm.
