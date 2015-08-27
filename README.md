@@ -170,10 +170,9 @@ Other amazingly awesome lists can be found in the
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 Feel free to contribute & Thank you very much!
+
 # License
-<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
-<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
-     style="border-style: none;" alt="Public Domain Mark" />
-</a>
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [YenChen Lin](https://github.com/yenchenlin1994) has waived all copyright and related or neighboring rights to this work.
