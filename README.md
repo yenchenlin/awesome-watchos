@@ -167,8 +167,7 @@ Other amazingly awesome lists can be found in the
  * [iOS App Development on Medium](https://medium.com/ios-os-x-development) - Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone
 
 # Contributing
-- **To add to the list:** Submit a pull request
-- **To remove from the list:** Open an issue
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 Feel free to contribute & Thank you very much!
 # License
