@@ -94,7 +94,7 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
  
     <space><space><img src="https://raw.githubusercontent.com/FancyPixel/done-swift/master/assets/screenshot.gif") alt="Example App" width="400"/>
 
- * [HighstreetWatchApp](https://github.com/GetHighstreet/HighstreetWatchApp) - The watchKit app built on the [http://highstreetapp.com](http://highstreetapp.com) platform.
+ * [HighstreetWatchApp](https://github.com/GetHighstreet/HighstreetWatchApp) - The watchKit app built on the <http://highstreetapp.com> platform.
 
     <space><space><img src="https://github.com/GetHighstreet/HighstreetWatchApp/blob/master/Documentation/Assets/walkthrough.gif") alt="Example App" width="350"/>
 
@@ -123,8 +123,8 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
     <space><space><img src="http://cdn5.raywenderlich.com/wp-content/themes/raywenderlich/images/store-2015/w2t_PDF_640.png") alt="Example App" width="320"/>
 
  * [Apple Watch for Developers: Advice & Techniques from Five Top Professionals](http://www.amazon.com/gp/product/1484213394/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1484213394&linkCode=as2&tag=feedingtheneu-20&linkId=PDZBCYAGPZXWHDQU)
-    
-    <space><space><img src="http://ecx.images-amazon.com/images/I/41Opqcd7F1L._SX331_BO1,204,203,200_.jpg") alt="Example App" width="280"/>
+
+    <space><space><img src="http://ecx.images-amazon.com/images/I/41Opqcd7F1L._SX331_BO1_204_203_200_.jpg") alt="Example App" width="280"/>
 
 # Tutorials
 

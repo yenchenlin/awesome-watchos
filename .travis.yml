@@ -4,6 +4,6 @@ cache:
   directories:
   - vendor/bundle
 script:
-  - bundle exec awesome_bot README.md --allow-redirect
+  - bundle exec awesome_bot README.md --allow-redirect --allow-dupe
 notifications:
   email: false
