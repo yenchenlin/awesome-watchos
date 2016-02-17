@@ -1,6 +1,7 @@
 <img src="https://github.com/yenchenlin1994/awesome-watchos/blob/master/resources/title.png" width="500">
 =========================
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Build Status](https://travis-ci.org/yenchenlin1994/awesome-watchos.svg?branch=master)](https://travis-ci.org/yenchenlin1994/awesome-watchos)
 
 A curated list of awesome watchOS frameworks, libraries, sample apps.
 ### Contents
@@ -30,19 +31,19 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
 ### UI
  * [IGInterfaceDataTable](https://github.com/Instagram/IGInterfaceDataTable) - A category on WKInterfaceTable that makes configuring tables with multi-dimensional data easier.
-   
+
   <space><space><img src="https://github.com/Instagram/IGInterfaceDataTable/blob/master/images/example.jpg" width="500") alt="Example App"/>
 
  * [JBWatchActivityIndicator](https://github.com/mikeswanson/JBWatchActivityIndicator) - An easy way to generate activity indicator images for Apple Watch.
- 
+
   <space><space><img src="https://camo.githubusercontent.com/3bc9d761836a40e088f45285ac52dd5fef89df1b/687474703a2f2f7777772e6d696b657377616e736f6e2e636f6d2f66696c65732f4a4257617463684163746976697479496e64696361746f722f4a4257617463684163746976697479496e64696361746f722e676966" width="300") alt="Example App"/>
 ### Charts
  * [YOChartImageKit](https://github.com/yasuoza/YOChartImageKit) - A chart image framework for watchOS.
-   
+
   <space><space><img src="https://raw.githubusercontent.com/yasuoza/YOChartImageKit/assets/images/watchos/all.png") alt="Example App" width="760"/>
 
  * [NKWatchChart](https://github.com/NilStack/NKWatchChart) - A chart library for Apple Watch based on PNChart and ios-charts.
-  
+
   <space><space><img src="https://db.tt/UAWEZ1AF") alt="Example App" width="250"/>
 
 # Design
@@ -56,7 +57,7 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 ### Design Resources
  * [ Watch Design Resources](https://developer.apple.com/watch/human-interface-guidelines/resources/) - Official design resources provided by Apple, including Apple Watch Bezels, Guides, Templates, Typeface.
  * [Chart of Apple Watch Complication Types and Layouts](http://i.imgur.com/4Thz881.jpg) - An useful chart of all the possible combinations of Complications.
- 
+
 # Tools
 
 ### Prototyping
@@ -68,32 +69,32 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
 # Sample Apps
  * [Lister](https://developer.apple.com/library/ios/samplecode/Lister/Introduction/Intro.html) - An official sample app demonstrates Apple Watch integration.
- 
+
    <space><space><img src="https://github.com/yenchenlin1994/awesome-watchos/blob/master/resources/lister.png") alt="Example App" width="260"/>
 
  * [WatchKit Catalog](https://developer.apple.com/library/ios/samplecode/WKInterfaceCatalog/Introduction/Intro.html) - An official sample app demonstrates how to use UI elements available in the WatchKit framework.
  * [Cherry](https://github.com/kenshin03/Cherry) - A mini pomodoro timer app designed for the  Watch.
- 
+
    <space><space><img src="https://raw.githubusercontent.com/kenshin03/Cherry/master/cherry-screencaps.gif") alt="Example App" width="250"/>
 
  * [Bitcoin Tracker](http://www.raywenderlich.com/89562/watchkit-tutorial-with-swift-getting-started) - A bitcoin price tracking app.
- 
+
     <space><space><img src="http://cdn5.raywenderlich.com/wp-content/uploads/2014/11/watch-final.png") alt="Example App" width="250"/>
 
  * [WWDC](https://github.com/sugarso/WWDC) - An open sourcing WWDC hit parties app.
- 
+
    <space><space><img src="https://raw.githubusercontent.com/sugarso/WWDC/master/Assets/watch1.png") alt="Example App" width="230"/>
- 
+
  * [SwiftHN](https://github.com/Dimillian/SwiftHN) - A Hacker News reader written in Swift.
  * [BaiduFM-Swift](https://github.com/belm/BaiduFM-Swift) - A apple watch app for BaiduFM.
- 
+
     <space><space><img src="https://raw.githubusercontent.com/belm/BaiduFM-Swift/master/ScreenShot/BaiduFM-Swift_AppleWatch_00.png") alt="Example App" width="250"/>
 
  * [done-swift](https://github.com/FancyPixel/done-swift) - A sample app to demonstrate data sharing between a WatchKit app and its main app using Realm.
- 
+
     <space><space><img src="https://raw.githubusercontent.com/FancyPixel/done-swift/master/assets/screenshot.gif") alt="Example App" width="400"/>
 
- * [HighstreetWatchApp](https://github.com/GetHighstreet/HighstreetWatchApp) - The watchKit app built on the [http://highstreetapp.com](http://highstreetapp.com) platform.
+ * [HighstreetWatchApp](https://github.com/GetHighstreet/HighstreetWatchApp) - The watchKit app built on the <http://highstreetapp.com> platform.
 
     <space><space><img src="https://github.com/GetHighstreet/HighstreetWatchApp/blob/master/Documentation/Assets/walkthrough.gif") alt="Example App" width="350"/>
 
@@ -122,14 +123,14 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
     <space><space><img src="http://cdn5.raywenderlich.com/wp-content/themes/raywenderlich/images/store-2015/w2t_PDF_640.png") alt="Example App" width="320"/>
 
  * [Apple Watch for Developers: Advice & Techniques from Five Top Professionals](http://www.amazon.com/gp/product/1484213394/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1484213394&linkCode=as2&tag=feedingtheneu-20&linkId=PDZBCYAGPZXWHDQU)
-    
-    <space><space><img src="http://ecx.images-amazon.com/images/I/41Opqcd7F1L._SX331_BO1,204,203,200_.jpg") alt="Example App" width="280"/>
+
+    <space><space><img src="http://ecx.images-amazon.com/images/I/41Opqcd7F1L._SX331_BO1_204_203_200_.jpg") alt="Example App" width="280"/>
 
 # Tutorials
 
 ### WatchKit Introduction
  * [WatchKit Tutorial with Swift Part 1: Getting Started](http://www.raywenderlich.com/89562/watchkit-tutorial-with-swift-getting-started)
- * [WatchKit Tutorial with Swift Part 2: Tables and Network Requests](http://www.raywenderlich.com/96589/watchkit-tutorial-swift-tables-network-requests) 
+ * [WatchKit Tutorial with Swift Part 2: Tables and Network Requests](http://www.raywenderlich.com/96589/watchkit-tutorial-swift-tables-network-requests)
  * [WatchKit Tutorial with Swift Part 3: More Tables, Glances and Handoff](http://www.raywenderlich.com/96741/watchkit-tutorial-with-swift-tables-glances-and-handoff)
 
 ### WatchOS 2 New Features
